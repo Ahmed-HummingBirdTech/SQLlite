@@ -1,0 +1,9 @@
+To include the SQLite library in an ESP32 using the Arduino IDE, you can follow these steps:
+
+Install the ESP32 board package in the Arduino IDE if you haven't already. You can refer to the official Arduino documentation for detailed instructions on how to install the ESP32 board package.
+
+Download the SQLite library for ESP32. You can find the library on the following GitHub repository: https://github.com/siara-cc/esp32_arduino_sqlite3_lib
+
+Open the Arduino IDE and go to "Sketch" -> "Include Library" -> "Add .ZIP Library".
+
+Select the downloaded SQLite library .zip file and click "Open" to install the library.
